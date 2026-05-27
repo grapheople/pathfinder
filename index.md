@@ -1,0 +1,71 @@
+# Index
+
+_Last linted: 2026-05-27 (`/lint` 3차 — 고아 0, 깨진 링크 0 실유효 / debrief는 의도된 미래 페이지)_ · _Last ingest: 2026-05-27 (3차)_
+
+## Countries
+
+- [[japan]] — 1개 도시
+
+## Cities
+
+- [[tokyo]] · japan · 봄·가을 · 3-7일 — 간토 거대도시. 에도→쇼와→현대의 시간 레이어, 공공 인프라 디테일
+
+## POIs by city
+
+### tokyo
+
+#### 동네 (district)
+- [[asakusa]] · district · 0.5-1day — 에도 풍경 짙은 다이토구
+- [[ginza]] · district · 0.5-1day — 근대 도시 디자인의 효시, 긴자 룰
+- [[shinjuku]] · district · 0.5-1day — 4개 에리어(도청·공원·쇼핑·가부키쵸)
+
+#### 명소·관광 (sight)
+- [[senso-ji]] · sight · 30-60min — 아사쿠사 천 년 사찰, 카미나리몬
+- [[sumida-river]] · sight · 30-60min — 강변 산책, 스카이트리 뷰
+- [[tokyo-skytree]] · sight · 1-2h — 634m 자립식 타워, 한국 사전 예매
+- [[tokyo-metropolitan-government-building]] · sight · 30-60min — 45F 무료 야경 전망대
+- [[shinjuku-gyoen]] · sight · 1-2h — 도심 58만㎡ 대공원
+- [[shibuya-scramble]] · sight · 15-30min — 사선 보행 교차로
+
+#### 액티비티 (activity)
+- [[pokemon-center-mega-tokyo]] · activity · 1-1.5h — 이케부쿠로, ⚠️ 임시휴업
+- [[pokemon-center-shibuya]] · activity · 30-60min — 시부야 PARCO 6F
+- [[teamlab-planets-tokyo]] · activity · 1.5-2h — 도요스, 몰입형 디지털 아트
+
+#### 음식 (food)
+- [[omoide-yokocho]] · food · $$ — 신주쿠 쇼와 닭꼬치 골목
+- [[tsukiji-outer-market]] · food · $$ — 츠키지 장외시장
+
+## Themes
+
+- [[tokyo-day-trips]] — 근교(요코하마·가마쿠라·하코네·구사츠), 6월 태풍 주의
+
+## Trips
+
+- [[trips/2026-06-tokyo/index]] · planning · 2026-06-03 ~ 2026-06-06 — 임산부 아내 + 6세 아들, 가족 + 콘텐츠 균형
+
+## Sources
+
+### 1차 (디시인사이드 노숙·간토 갤러리, 2026-05-27)
+- [[sources/2026-05-27-dcinside-tokyo-weather]] — 월별 기후, 6월 장마
+- [[sources/2026-05-27-dcinside-tokyo-preparations]] — Visit Japan Web, 결제·통신·교통
+- [[sources/2026-05-27-dcinside-tokyo-shinjuku]] — 신주쿠 4개 에리어
+- [[sources/2026-05-27-dcinside-tokyo-asakusa-skytree]] — 센소지·나카미세·스카이트리
+- [[sources/2026-05-27-dcinside-tokyo-day-trips]] — 요코하마·가마쿠라·하코네
+- [[sources/2026-05-27-dcinside-tokyo-onsen]] — 하코네·구사츠
+
+### 2차 (공식 + 한국어 위키피디아, 2026-05-27)
+- [[sources/2026-05-27-pokemon-center-megatokyo-official]] — 임시휴업 표기 발견
+- [[sources/2026-05-27-pokemon-center-shibuya-official]]
+- [[sources/2026-05-27-wikipedia-ginza]] — 긴자 룰, 보행자 천국
+- [[sources/2026-05-27-wikipedia-tsukiji]] — 장내·장외 분리(2018)
+- [[sources/2026-05-27-wikipedia-asakusa]] — 에도 6구 구성
+- [[sources/2026-05-27-wikipedia-shibuya]] — 스크램블, PARCO 1973
+- [[sources/2026-05-27-wikipedia-sumida-river]] — 시민 정화 운동
+
+### 3차 (백업 후크 — 일반 지식 + 공식 사이트 fetch 시도, 2026-05-27)
+- [[sources/2026-05-27-general-knowledge-teamlab-planets]] — fetch 실패, 일반 지식 + 출발 전 공식 재확인 표지
+
+---
+
+_이 파일은 [[CLAUDE]]의 워크플로우 10.5(Lint)에 의해 자동 갱신된다. 직접 편집보다 `/lint` 호출 권장._
