@@ -4,7 +4,7 @@ title: 신주쿠
 aliases: [Shinjuku, 新宿]
 tags: [tokyo, shinjuku, district]
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-06-02
 city: tokyo
 category: district
 duration: 0.5-1day
@@ -30,6 +30,7 @@ status: candidate
 
 ### 쇼핑 에리어 (동쪽)
 - 이세탄 백화점
+- [[beams-japan-shinjuku|BEAMS Japan 신주쿠]] — 신주쿠 3초메, "Made in Japan" 멀티플로어 플래그십. 일본 스트릿/셀렉트 쇼핑 1순위([[tokyo-street-fashion]] 참조).
 - "고양이 전광판" (신주쿠 동쪽 사진 명소 — 거대 LED 3D 고양이)
 
 ### 가부키쵸 에리어 (동북쪽)
@@ -56,3 +57,4 @@ status: candidate
 ## 출처
 
 - [[sources/2026-05-27-dcinside-tokyo-shinjuku]]
+- [[sources/2026-06-02-tokyo-street-fashion-shops]] (BEAMS Japan)

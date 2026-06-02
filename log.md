@@ -429,3 +429,25 @@ trip index 산출물 섹션에 logistics 링크 추가.
 - 사후 환류: 실제 방문 가게는 debrief → 필요 시 `wiki/pois/<slug>.md`(category: food)로 시드
 
 trip index 산출물 섹션에 food-options 링크 추가.
+
+## [2026-06-02] ingest | 도쿄 스트릿패션 쇼핑 (BEAMS Japan 신주쿠 · Dover Street Market Ginza)
+
+사용자 요청: 긴자·신주쿠에서 일본 스트릿패션 브랜드 쇼핑, 2026-06 트립 숙소 동선 기준.
+
+소스:
+- `sources/2026-06-02-tokyo-street-fashion-shops.md` — 공식(DSM Ginza·BEAMS) 직접 fetch 403, 웹검색(공식 발췌 + Time Out Tokyo + Good Luck Trip + 중앙구 관광청) 교차확인. 운영시간·휴무 출발 전 확인 표지.
+
+신규 위키 페이지:
+- `wiki/pois/beams-japan-shinjuku.md` (category: **activity** — shopping 전용 category 부재로 activity 사용, schema-update 후보)
+- `wiki/pois/dover-street-market-ginza.md` (category: activity)
+- `wiki/themes/tokyo-street-fashion.md` (scope: city, applies_to: [tokyo]) — 동네별 핵심 매장 + 2026-06 트립 동선 매핑 + 하라주쿠·시부야 본진 시드 후보 메모
+
+부모·인접 페이지 갱신:
+- `wiki/pois/shinjuku.md` — 쇼핑 에리어에 BEAMS Japan 추가, 출처 인용
+- `wiki/pois/ginza.md` — 봐야할것에 DSMG 추가, 출처 인용
+- `wiki/cities/tokyo.md` — POI에 "쇼핑·스트릿패션" 섹션 + 테마 섹션(tokyo-street-fashion) 추가
+- 루트 `index.md` — POI 쇼핑·스트릿패션 섹션, Themes, Sources 5차 추가
+
+동선 매핑: 6/4 신주쿠 숙소([[hotel-groove-shinjuku]]) → BEAMS Japan / 6/5 긴자 숙소([[super-hotel-premier-ginza]]) → DSMG (6/6 오전 긴자 보행자 천국·쇼핑 슬롯에 합치면 동선 최적). 임산부·6세 동반 제약상 한 동네 한 매장 압축 권장.
+
+**schema-update 후보 (사용자 결정 대기)**: `poi.category`에 `shopping` 추가. 현재는 activity로 시드. 향후 쇼핑 POI 누적 시 district·stay처럼 정식 등록 제안.

@@ -4,7 +4,7 @@ title: 도쿄
 aliases: [Tokyo, 東京, とうきょう]
 tags: [japan, tokyo, kanto, megacity]
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-06-02
 country: japan
 region: 간토
 best_seasons: [spring, autumn]
@@ -68,6 +68,10 @@ duration_hint: 3-7일
 - [[teamlab-planets-tokyo]] (도요스, 몰입형 디지털 아트)
 - [[tsukiji-outer-market]] (장외시장, 긴자 인접)
 
+#### 쇼핑·스트릿패션 (activity)
+- [[beams-japan-shinjuku]] (신주쿠 3초메, "Made in Japan" 멀티플로어 플래그십)
+- [[dover-street-market-ginza]] (긴자, 콤데가르송 운영 7층 편집숍)
+
 #### 숙소 (stay)
 - [[onyado-nono-asakusa]] (아사쿠사, Dormy Inn 다다미·천연 온천)
 - [[hotel-groove-shinjuku]] (신주쿠 가부키쵸, PARKROYAL Collection·가부키쵸 타워)
@@ -75,6 +79,9 @@ duration_hint: 3-7일
 
 ### 근교 (1박 2일·당일치기)
 - [[tokyo-day-trips]] — 요코하마·가마쿠라·에노시마·하코네 등
+
+### 테마
+- [[tokyo-street-fashion]] — 긴자·신주쿠 일본 스트릿패션·디자이너 브랜드 쇼핑
 
 ### 호텔 위치 통설
 1. 도쿄역 (교통 중심, 비쌈)
