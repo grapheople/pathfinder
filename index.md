@@ -33,6 +33,10 @@ _Last linted: 2026-05-27 (`/lint` 3차 — 고아 0, 깨진 링크 0 실유효 /
 - [[pokemon-center-shibuya]] · activity · 30-60min — 시부야 PARCO 6F
 - [[teamlab-planets-tokyo]] · activity · 1.5-2h — 도요스, 몰입형 디지털 아트
 
+#### 쇼핑·스트릿패션 (activity)
+- [[beams-japan-shinjuku]] · activity · 1-1.5h — 신주쿠 3초메, "Made in Japan" 멀티플로어 플래그십
+- [[dover-street-market-ginza]] · activity · 1-1.5h — 긴자, 콤데가르송 운영 7층 편집숍
+
 #### 음식 (food)
 - [[omoide-yokocho]] · food · $$ — 신주쿠 쇼와 닭꼬치 골목
 - [[tsukiji-outer-market]] · food · $$ — 츠키지 장외시장
@@ -45,6 +49,7 @@ _Last linted: 2026-05-27 (`/lint` 3차 — 고아 0, 깨진 링크 0 실유효 /
 ## Themes
 
 - [[tokyo-day-trips]] — 근교(요코하마·가마쿠라·하코네·구사츠), 6월 태풍 주의
+- [[tokyo-street-fashion]] — 긴자·신주쿠 일본 스트릿패션·디자이너 브랜드 쇼핑
 
 ## Trips
 
@@ -77,6 +82,9 @@ _Last linted: 2026-05-27 (`/lint` 3차 — 고아 0, 깨진 링크 0 실유효 /
 - [[sources/2026-06-02-general-knowledge-super-hotel-premier-ginza]] — 공식 404, 일반 지식 시드 + 출발 전 공식·예약 확인
 - [[sources/2026-06-02-general-knowledge-hotel-groove-shinjuku]] — 공식 404, PARKROYAL Collection 일반 지식 시드
 - [[sources/2026-06-02-general-knowledge-tokyu-kabukicho-tower]] — 가부키쵸 타워 일반 지식 시드 (쿠마 켄고·재개발 정보)
+
+### 5차 (스트릿패션 쇼핑, 2026-06-02)
+- [[sources/2026-06-02-tokyo-street-fashion-shops]] — BEAMS Japan 신주쿠 · Dover Street Market Ginza (공식 403, 웹검색 교차확인 + 출발 전 확인)
 
 ---
 

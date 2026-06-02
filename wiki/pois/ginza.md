@@ -4,7 +4,7 @@ title: 긴자
 aliases: [Ginza, 銀座]
 tags: [tokyo, ginza, district, design, luxury]
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-06-02
 city: tokyo
 category: district
 duration: 0.5-1day
@@ -22,6 +22,7 @@ status: candidate
 - **4초메 교차로**: 긴자 와코 시계탑 + 미츠코시 백화점이 만나는 동네의 중심.
 - **보행자 천국(歩行者天国)**: 주말·휴일 오후 차도가 보행자 도로로 전환. 도시가 사람을 위해 형태를 바꾸는 풍경.
 - **긴자 식스(GINZA SIX)**: 현대 백화점·갤러리 복합. 옥상 정원 무료 개방.
+- [[dover-street-market-ginza|Dover Street Market Ginza (DSMG)]]: 콤데가르송 운영 7층 편집숍. 일본 스트릿/하이패션 쇼핑의 핵심([[tokyo-street-fashion]] 참조).
 - **가부키좌**(히가시긴자역): 전통 가부키 공연장. 막간 관람도 가능.
 
 ## 먹어야할것 — 기후·문화·생활이 녹은 음식
@@ -44,3 +45,4 @@ status: candidate
 ## 출처
 
 - [[sources/2026-05-27-wikipedia-ginza]]
+- [[sources/2026-06-02-tokyo-street-fashion-shops]] (Dover Street Market Ginza)
