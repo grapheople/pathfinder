@@ -26,15 +26,21 @@ _Last linted: 2026-05-27 (`/lint` 3차 — 고아 0, 깨진 링크 0 실유효 /
 - [[tokyo-metropolitan-government-building]] · sight · 30-60min — 45F 무료 야경 전망대
 - [[shinjuku-gyoen]] · sight · 1-2h — 도심 58만㎡ 대공원
 - [[shibuya-scramble]] · sight · 15-30min — 사선 보행 교차로
+- [[tokyu-kabukicho-tower]] · sight · 1-2h — 가부키쵸 신축 48층, 쿠마 켄고, 39F 무료 Skydeck
 
 #### 액티비티 (activity)
-- [[pokemon-center-mega-tokyo]] · activity · 1-1.5h — 이케부쿠로, ⚠️ 임시휴업
+- [[pokemon-center-mega-tokyo]] · activity · 1-1.5h — 이케부쿠로, ⚠️ 영업 안 함 (2026-06 trip 미사용)
 - [[pokemon-center-shibuya]] · activity · 30-60min — 시부야 PARCO 6F
 - [[teamlab-planets-tokyo]] · activity · 1.5-2h — 도요스, 몰입형 디지털 아트
 
 #### 음식 (food)
 - [[omoide-yokocho]] · food · $$ — 신주쿠 쇼와 닭꼬치 골목
 - [[tsukiji-outer-market]] · food · $$ — 츠키지 장외시장
+
+#### 숙소 (stay)
+- [[onyado-nono-asakusa]] · stay · $$$ — Dormy Inn 다다미·천연 온천 (2026-06 trip 6/3 확정)
+- [[hotel-groove-shinjuku]] · stay · $$$ — PARKROYAL Collection·가부키쵸 타워 (2026-06 trip 6/4 확정)
+- [[super-hotel-premier-ginza]] · stay · $$ — Super Hotel Premier·대욕장 (2026-06 trip 6/5 확정)
 
 ## Themes
 
@@ -65,6 +71,12 @@ _Last linted: 2026-05-27 (`/lint` 3차 — 고아 0, 깨진 링크 0 실유효 /
 
 ### 3차 (백업 후크 — 일반 지식 + 공식 사이트 fetch 시도, 2026-05-27)
 - [[sources/2026-05-27-general-knowledge-teamlab-planets]] — fetch 실패, 일반 지식 + 출발 전 공식 재확인 표지
+
+### 4차 (호텔 결정, 2026-06-02)
+- [[sources/2026-06-02-general-knowledge-onyado-nono-asakusa]] — Dormy Inn 그룹 fetch 부분 성공(브랜드만 확인), 일반 지식 시드 + 출발 전 공식·예약 확인
+- [[sources/2026-06-02-general-knowledge-super-hotel-premier-ginza]] — 공식 404, 일반 지식 시드 + 출발 전 공식·예약 확인
+- [[sources/2026-06-02-general-knowledge-hotel-groove-shinjuku]] — 공식 404, PARKROYAL Collection 일반 지식 시드
+- [[sources/2026-06-02-general-knowledge-tokyu-kabukicho-tower]] — 가부키쵸 타워 일반 지식 시드 (쿠마 켄고·재개발 정보)
 
 ---
 

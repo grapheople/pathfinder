@@ -51,6 +51,185 @@
 
 위키 상태: **완전 정합** (실유효 깨짐 0건). 42개 마크다운 파일 (CLAUDE+index+log+profile+.gitignore 5 / sources 14 / wiki 16 / trips 10 / .claude/commands 5 + .obsidian 3 = 시스템 외).
 
+## [2026-06-02] plan-update | 2026-06-tokyo 호텔 1박 확정 + 입국 이동 수단 변경
+
+사용자 결정 사항:
+- **6/3 숙소: [[onyado-nono-asakusa|天然温泉 凌雲の湯 御宿 野乃 浅草 (본관)]]** (Dormy Inn 그룹 다다미·천연 온천). 본관 확정 (별관 凌天の湯 아님).
+- **6/3 입국 이동: 케이세이 본선 액세스 특급 직통** (NRT → 아사쿠사역). 환승 0, 가족 3인 약 3,500엔, 60~75분. 정액 택시 대비 약 21,000엔 절감 + 호텔까지 도보 동선.
+- 6/6 출국은 정액 택시 유지(잠정).
+
+신규 wiki:
+- `wiki/pois/onyado-nono-asakusa.md` (category: **stay**, status: confirmed) — 새 category 첫 사용
+- `sources/2026-06-02-general-knowledge-onyado-nono-asakusa.md` (공식 fetch 부분 성공, 일반 지식 + 표지)
+
+영향 산출물 갱신:
+- `itinerary.md` — 6/3 정액 택시 → 케이세이 본선 액세스 특급으로 교체, 호텔명 명시, 21:30 무료 야식 라멘 슬롯 추가, 보완 필요 섹션 갱신
+- `budget.md` — 이동비 약 21,000엔 절감, 호텔 1박 가격 갱신
+- `quick-reference.md` — 호텔란·이동란 채움, 6/3 동선 갱신
+- `logistics.md` — §2 공항 이동 섹션 재작성 (입국=케이세이 본선 확정 / 출국=정액 택시 + 대안), D-7 체크리스트 갱신 (정액 택시 2회→1회, 호텔 메일 확인), 비상 동선 표 갱신
+- `shot-list.md` — 6/3 컷에 케이세이 본선·호텔 다다미·야식 라멘 추가, 콘텐츠 6관점 "배울것" 매핑
+- `hotel-options.md` — 아사쿠사 결정 표시, 후보들은 참고로 보관
+- `trip index.md` — overrides에 `airport_transfer_in/out` 키 추가, 확정 사항 섹션 신설
+- `wiki/cities/tokyo.md` — POI 목록에 stay 카테고리 신설
+- `index.md` — POI by city에 stay 섹션 + Sources 4차 항목
+
+잔여 결정 사항 (사용자 보류 — 2026-06-02 정정):
+- 신주쿠 호텔 픽 (보류)
+- 긴자 디너 가게 (보류)
+
+## [2026-06-02] plan-update | 2026-06-tokyo 6/5 호텔 + 6/6 복귀 플랜 확정
+
+사용자 결정 사항:
+- **6/5 숙소: [[super-hotel-premier-ginza|Super Hotel Premier Ginza]]** (Super Hotel 그룹 Premier 라인, 대욕장·무료 조식). 가성비 + 츠키지·히가시긴자역 도보권 = 6/6 복귀 동선과 정합.
+- **6/6 출국: 정액 택시 (긴자 → NRT)** 확정. 임산부 22주차 + 5시간 비행 직전 컨디션 보전 우선. 차액 약 19,000엔이 합리적 투자. 대안(액세스 특급)은 logistics에 정보 보존.
+
+복귀 플랜 시간 단위 동선:
+- 07:30 Super Hotel 무료 조식
+- 08:30 큰 캐리어 호텔 클로크 보관
+- 09:00 츠키지 장외시장 (호텔 도보 5~10분)
+- 09:30 마지막 식사 (스시잔마이·타마고야키 등)
+- 10:30 호텔 복귀·짐 픽업
+- 11:00 체크아웃
+- 11:15 정액 택시 출발 → 12:30 NRT → 14:00 출국 → 17:30 인천 입국
+
+신규 wiki:
+- `wiki/pois/super-hotel-premier-ginza.md` (category: stay, status: confirmed)
+- `sources/2026-06-02-general-knowledge-super-hotel-premier-ginza.md` (공식 404, 일반 지식 + 표지)
+
+영향 산출물 갱신:
+- `itinerary.md` — 6/5 호텔 표기·대욕장 추가, 6/6 복귀 플랜 시간 단위로 재작성, 출국 이동 결정 명시
+- `budget.md` — 긴자 1박 약 25,000엔 절감(상급→Super Hotel Premier 가성비 전환)
+- `quick-reference.md` — 6/5 호텔란·6/6 동선 채움
+- `logistics.md` — 6/6 출국 정액 택시 확정, 대안(액세스 특급) 정보 보존, 비상 동선 표 갱신
+- `shot-list.md` — 6/6 컷에 Super Hotel 어메니티·츠키지·정액 택시 안 갱신
+- `hotel-options.md` — 긴자 결정 표시, 후보 참고 보관
+- `trip index.md` — 확정 사항 섹션에 6/5·6/6 정보 추가, overrides 코멘트 갱신
+- `wiki/cities/tokyo.md`·루트 `index.md` — stay 섹션에 super-hotel-premier-ginza 추가
+
+잔여 결정 사항:
+- 긴자 디너 가게 — 보류
+
+## [2026-06-02] plan-update | 긴자 디너 예약 안 함 결정 — trip planning 잔여 결정 0
+
+사용자 결정: **모든 식당 예약 안 함, 즉흥 방문**. 이유: 6세 동반으로 미슐랭급 고급 가게 회피.
+
+영향:
+- itinerary.md 6/5 18:30 슬롯 — "회·스시 메인 디너 예약" → "즉흥 방문, 가족 친화 후보(스시잔마이·이타마에 스시·노다이와·긴자 토라지 등)"
+- itinerary.md 보완 필요 섹션 — 긴자 디너 결정 사항 제거, 모든 결정 ✅로 닫힘
+- food-options.md 긴자 디너 섹션 — 결정 메모, 캐주얼·가족 친화 ⭐ 표시 재정렬. 미슐랭급(Onodera·큐베이) "제외 (6세)" 표기
+- logistics.md D-21 체크리스트 — 긴자 디너 예약 액션 취소선 처리
+- quick-reference.md 6/5 디너 — 즉흥·가족 친화 명시
+- trip index.md overrides `must_avoid`에 `fine-dining-with-kid` 추가, 확정 사항에 식당 예약 안 함 명시
+
+**잔여 결정 사항: 0건. trip planning 완료.**
+
+남은 액션은 모두 D-21~D-1 시점의 **사용자 직접 액션**: 임산부 검진·모자수첩 영문 요약·Visit Japan Web·teamLab 예매·액세스 특급 시간표·온야도 노노 임산부 정책 메일·일기예보·정액 택시 백업 메모. logistics 체크리스트 참조.
+
+## [2026-06-02] plan-update | 메가도쿄 영업 안 함 확정 → 6/4 분기 시스템 제거
+
+사용자 확정: [[pokemon-center-mega-tokyo]]가 trip 시점에 영업 안 함. **분기 A/B 시스템 제거**, 6/4 오후를 **[[teamlab-planets-tokyo]] 단일 일정**으로 정착.
+
+영향:
+- itinerary.md — 14:30 메가도쿄 슬롯을 13:30 도요스 이동 + 14:00 teamLab으로 교체. "6/4 백업 분기" 섹션 제거하고 "메가도쿄 영업 안 함 확정" 간단 메모로 대체. 우천 plan B에서 메가도쿄·선샤인시티 대체안 제거
+- content.md — 백업 시나리오 섹션 → 단일 시나리오 (teamLab 메인)로 재작성. "배울것" 축 한층 강화 명시
+- shot-list.md — 분기 A·B 두 표 → 단일 표로 통합. 14:00~16:00 teamLab 메인 클로징 컷
+- logistics.md D-7 체크리스트 — 메가도쿄 재오픈 확인 액션 제거, teamLab Planets 사전 예매 단일 액션
+- budget.md — 포켓몬 메가도쿄 굿즈(8,000~15,000엔) → teamLab 입장료(약 9,100엔)
+- trip index.md — overrides themes에서 `kid-pokemon` → `kid-anchor` (teamLab + 시부야 PARCO 조합)
+- quick-reference.md — 6/4 동선에서 분기 표기 제거, teamLab 단일
+- wiki/pois/pokemon-center-mega-tokyo.md — 본문 "임시 휴업" → "영업 안 함, 2026-06 trip 미사용" 표기
+- wiki/cities/tokyo.md·루트 index.md — 동일 표기
+
+6세 아이 후크: 6/4 오후 teamLab + 6/5 오후 시부야 PARCO 6F([[pokemon-center-shibuya|포켓몬]]·닌텐도·캡콤) 조합으로 유지.
+
+잔여 결정 사항:
+- 긴자 디너 가게 — 보류
+
+## [2026-06-02] plan-update | 2026-06-tokyo 6/4 신주쿠 호텔 확정 + 6/4 동선 재구성
+
+사용자 결정: **6/4 신주쿠 = [[hotel-groove-shinjuku|Hotel Groove Shinjuku, A PARKROYAL Hotel]]** (도큐 가부키쵸 타워 18~38F).
+
+신규 wiki (4개):
+- `sources/2026-06-02-general-knowledge-tokyu-kabukicho-tower.md`
+- `sources/2026-06-02-general-knowledge-hotel-groove-shinjuku.md`
+- `wiki/pois/tokyu-kabukicho-tower.md` (category: sight — 쿠마 켄고 설계 48층 복합)
+- `wiki/pois/hotel-groove-shinjuku.md` (category: stay, status: confirmed)
+
+6/4 동선 재구성:
+- 09:00 takkyubin → 호텔 그루브 신주쿠 (가부키쵸 타워) 발송
+- 17:00 (이케부쿠로/도요스에서) **택시 → 가부키쵸 타워** 약 25분
+- 17:30 체크인 (18F 라운지)
+- 18:00 객실 휴식
+- 19:00 저녁 (A. 타워 내 푸드홀 / B. 외출, [[food-options]] 신주쿠)
+- **20:30 택시 → 도청 전망대** (지하 터널 대신 가부키쵸→도청 택시 5~10분, 1,200~1,800엔) — 야간 가부키쵸 도보 임산부 부담 회피
+- 21:30 택시 → 호텔 복귀
+- **22:00 (선택) 타워 39F 무료 Skydeck** — 컨디션 OK시 보너스 야경 컷, 동선 0
+
+영향 산출물 갱신:
+- itinerary.md — 6/4 분기 A·B 호텔명 정정, 도청 야경 동선을 지하 터널 대신 택시로, 22:00 Skydeck 보너스 슬롯 추가
+- budget.md — 신주쿠 1박 가격 갱신 (가족 약 45,000엔 추정)
+- quick-reference.md — 6/4 호텔란·동선 갱신
+- logistics.md — 신주쿠 비상 동선 표에 호텔 인접 NCGM 명시
+- shot-list.md — 6/4 17:30 호텔 그루브 컷, 18:00 객실 야경, 19:00 타워 푸드홀(선택), 22:00 Skydeck(선택) 추가
+- hotel-options.md — 신주쿠 결정 표시, 후보 참고 보관
+- trip index.md — 확정 사항 섹션에 6/4 호텔 추가
+- wiki/cities/tokyo.md — POI sight에 tokyu-kabukicho-tower, stay에 hotel-groove-shinjuku 추가
+- 루트 index.md — POI sight·stay 섹션 갱신, Sources 4차에 항목 추가
+
+콘텐츠 6관점 영향:
+- **"배울것"** 축 강화: 6/4 저녁 슬롯에 **가부키쵸 재개발 = 도시 재생 메시지** + **쿠마 켄고 현대 일본 건축** + **수직 도시(vertical city)** 컷 응집.
+- 호텔 그루브(PARKROYAL Collection) + Dormy Inn + Super Hotel 비교로 **일본 호텔 산업 다층 브랜딩** 컷.
+
+잔여 결정 사항:
+- 긴자 디너 가게 — 보류
+
+## [2026-06-02] plan-update | 6/6 출국 이동 정정 — 정액 택시 → 액세스 특급 직통
+
+사용자 결정: 정액 택시 → **도에이 아사쿠사선 액세스 특급 직통**으로 정정.
+
+- 동선: Super Hotel Premier Ginza → 히가시긴자(東銀座)역 도보 5~10분 → 액세스 특급 직통 → NRT
+- 비용: 가족 3인 약 4,000엔 (정액 택시 대비 약 19,000엔 절감)
+- 시간: 약 80~90분
+- 환승: 0
+- 입·출국 모두 액세스 특급으로 일관된 가성비 패턴
+
+영향:
+- itinerary.md — 6/6 14:00 호텔 출발 → 14:10 히가시긴자역 액세스 특급 탑승 → 15:30~15:45 NRT 도착. 행선지 표시 주의 명시
+- budget.md — 이동비 약 19,000엔 추가 절감. 누적 약 40,000엔 절감
+- quick-reference.md — 공항 이동 표 + 6/6 동선 정정
+- logistics.md §2 — 6/6 결정 정정, 행선지 표시 주의·시간표 사전 확인 명시, 정액 택시는 D-1 컨디션 백업으로 보존, D-7 체크리스트 갱신
+- shot-list.md — 14:00 히가시긴자역 도보·14:10 액세스 특급 차창 컷, "배울것" (대중교통 인프라) 매핑
+- trip index.md — overrides `airport_transfer_out: toei-asakusa-access-express`, 확정 사항 갱신
+
+D-1 백업: 컨디션 변수 크면 정액 택시 전환 가능 (회사 연락처 D-7에 메모)
+
+## [2026-06-02] plan-update | 항공편 시간 정정 + 6/6 풀데이 전환
+
+사용자 정정: 출국·복귀 시간 모두 **탑승시간 기준**.
+
+- 6/3 14:10 = ICN 탑승 → NRT 도착 약 17:00 (기존 가정과 일치)
+- 6/6 17:30 = **NRT 탑승** (기존엔 ICN 도착으로 잘못 가정) → ICN 도착 약 20:00~20:30
+
+**6/6 전체 일정 +5시간 여유** 발생. "오전 반일"에서 "풀데이"로 격상.
+
+영향:
+- `itinerary.md` — 6/3 도착 시간 표기 정정. 6/6 일정 재작성: 츠키지 본격 + 츠키지 산책 + **12:00 추가 슬롯**(사용자 결정 필요) + 14:15 정액 택시 출발 + 17:30 탑승 + 20:00~20:30 ICN.
+- `quick-reference.md` — 비행 시간 표 갱신, 6/3·6/6 동선 갱신.
+- `shot-list.md` — 6/3·6/6 시간 표기 정정, 6/6에 추가 슬롯 컷 + 츠키지 산책 컷 추가.
+- `trip index.md` — frontmatter `start:`/`end:` 코멘트로 탑승 시간 명시.
+
+**추가 슬롯 결정 (2026-06-02)**: ✅ **A. 긴자 보행자 천국 + 가벼운 쇼핑** 채택.
+
+- 동선: 호텔→4초메 도보 10분 → 보행자 천국 산책 → 쇼핑 1~2곳(이토야·MUJI Ginza 플래그십·긴자식스·미츠코시 중) → 호텔 복귀
+- 콘텐츠 6관점 "배울것" 영상 클로징 컷으로 결정적 — 긴자 룰·자율 도시 규제·보행자 도시 디자인
+- 임산부 평지·벤치 풍부, 6세 잡화·서점·옥상 정원 가능
+
+영향 산출물 갱신:
+- itinerary.md — 12:00~13:30 슬롯 구체화 (쇼핑 후보 4곳 명시)
+- quick-reference.md — 6/6 동선에 보행자 천국·쇼핑 추가
+- shot-list.md — 보행자 천국·쇼핑 필수 컷 등록 (메인 클로징)
+- trip index.md — 6/6 추가 슬롯 확정 명시
+
 ## [2026-05-27] schema-update | trip 보조 type 5종 정식 등록
 
 이번 trip(2026-06-tokyo)에서 누적된 trip 보조 type 5종을 CLAUDE.md schema에 정식 등록.

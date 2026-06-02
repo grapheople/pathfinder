@@ -62,10 +62,16 @@ duration_hint: 3-7일
 - [[shinjuku-gyoen]] (도심 대공원, 신주쿠)
 - [[omoide-yokocho]] (저녁 닭꼬치 골목, 신주쿠)
 - [[shibuya-scramble]] (사선 보행 교차로, 시부야)
-- [[pokemon-center-mega-tokyo]] (이케부쿠로 선샤인시티, ⚠️ 임시휴업)
+- [[tokyu-kabukicho-tower]] (가부키쵸, 쿠마 켄고 신축 48층 복합 시설·39F 무료 Skydeck)
+- [[pokemon-center-mega-tokyo]] (이케부쿠로 선샤인시티, ⚠️ 영업 안 함 — 2026-06 trip 미사용)
 - [[pokemon-center-shibuya]] (시부야 PARCO 6F)
 - [[teamlab-planets-tokyo]] (도요스, 몰입형 디지털 아트)
 - [[tsukiji-outer-market]] (장외시장, 긴자 인접)
+
+#### 숙소 (stay)
+- [[onyado-nono-asakusa]] (아사쿠사, Dormy Inn 다다미·천연 온천)
+- [[hotel-groove-shinjuku]] (신주쿠 가부키쵸, PARKROYAL Collection·가부키쵸 타워)
+- [[super-hotel-premier-ginza]] (긴자, Super Hotel Premier 라인·대욕장·무료 조식)
 
 ### 근교 (1박 2일·당일치기)
 - [[tokyo-day-trips]] — 요코하마·가마쿠라·에노시마·하코네 등
