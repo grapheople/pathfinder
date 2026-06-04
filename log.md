@@ -478,3 +478,15 @@ trip 산출물 전면 갱신(6/4):
 아이 후크 변천: 메가도쿄(휴업) → teamLab Planets(도요스) → **수상버스 ⛴ + (선택)teamLab Borderless(아자부다이)**. ⚠️ Borderless·우주선 보트는 **당일 예약/잔여석 현장 확인** 필요.
 
 미해결: teamLab Borderless 당일 예약 여부는 사용자 현장 확인 사항. 안 되면 도쿄타워+아자부다이 광장으로 가볍게.
+
+## [2026-06-04] plan-update | 6/4 — teamLab Borderless 빼고 아자부다이 광장만 + 도청 야경 복귀
+
+사용자 결정: 아자부다이 힐즈는 **광장 구경만**, 저녁에 **[[tokyo-metropolitan-government-building|도청 45F 무료 전망대]] 야경**.
+
+영향:
+- `itinerary.md` — 6/4 오후 teamLab Borderless 슬롯 제거(15:20 광장만 → 16:30 신주쿠 이동 → 17:15 체크인·휴식 → 18:30 저녁 → 20:00 도청 야경 → 21:00 복귀 → 21:30 선택 39F Skydeck). 우천 Plan B에 도청 지하터널 행 복귀, 아이 후크 변천·확정 사항 갱신
+- `quick-reference.md`·`content.md`·`shot-list.md` — 6/4 도청 야경 복귀, Borderless 제거. 콘텐츠 "배울것"에 **낮 도쿄타워(유료) vs 밤 도청(무료) 전망 대비** 추가
+- `wiki/pois/azabudai-hills.md` — 트립 동선 "광장만"
+- `wiki/pois/teamlab-borderless-azabudai.md` — 이번 트립 미방문, 향후 후보로 보관 (POI 페이지 자체는 유지)
+
+아이 후크: 6/4 수상버스 ⛴ + 도쿄타워 룩다운 윈도우 / 6/5 시부야 PARCO 포켓몬.

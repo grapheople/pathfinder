@@ -78,13 +78,13 @@ video_url:
 
 **시간 단위 촬영 컷 리스트**는 [[trips/2026-06-tokyo/shot-list|shot-list.md]]에 분리. itinerary 슬롯과 1:1 매칭, 필수·선택·우천 대체 표기 포함.
 
-## 6/4 오후 = 수상버스 + 도쿄타워 + 아자부다이 힐즈 (2026-06-04 동선 변경)
+## 6/4 오후 = 수상버스 + 도쿄타워 + 아자부다이(광장) + 도청 야경 (2026-06-04 동선 변경)
 
-도요스 [[teamlab-planets-tokyo|teamLab Planets]]를 빼고 **아사쿠사 수상버스 → [[tokyo-tower|도쿄타워]] → [[azabudai-hills|아자부다이 힐즈]]([[teamlab-borderless-azabudai|teamLab Borderless]])** 로 교체. 콘텐츠 무게중심:
+도요스 [[teamlab-planets-tokyo|teamLab Planets]]를 빼고 **아사쿠사 수상버스 → [[tokyo-tower|도쿄타워]] → [[azabudai-hills|아자부다이 힐즈]](광장 구경만) → 저녁 [[tokyo-metropolitan-government-building|도청 45F 야경]]** 로 교체. 콘텐츠 무게중심:
 
 - **"봐야할것" — 강(수상버스)에서 본 도쿄의 시간 레이어**: [[sumida-river|스미다강]]에서 다리·하마리큐를 지나 도쿄만으로. 앉아서 흐르는 도시를 담는 무빙 컷.
-- **"배울것" — 옛 타워 vs 신축 수직 도시**: [[tokyo-tower|도쿄타워]](1958, 전후 부흥)와 [[azabudai-hills|아자부다이 힐즈]](2023, 모리 JP타워 330m·헤더윅 녹지)를 한 동선에서 대비. **도시 재생·수직 도시·공공 녹지**라는 메시지가 가장 또렷한 컷. 빌딩 사이로 도쿄타워를 프레이밍하는 한 컷이 이 대비의 상징.
-- **"아이의 후크"**: 캐릭터 IP(포켓몬) → ⛴ **배 그 자체** + (선택) [[teamlab-borderless-azabudai|teamLab Borderless]] 인터랙티브 디지털 아트. 6/5 시부야 PARCO 6F(포켓몬·닌텐도·캡콤)에서 IP 후크 보완.
-- ⚠️ teamLab Borderless는 당일 예약 슬롯 확인. 도청 무료 전망대 야경 컷은 6/4에서 빠지고(도쿄타워 전망 + 호텔 39F Skydeck로 충당), 필요 시 6/5로 이동.
+- **"배울것" — 옛 타워 vs 신축 수직 도시**: [[tokyo-tower|도쿄타워]](1958, 전후 부흥)와 [[azabudai-hills|아자부다이 힐즈]](2023, 모리 JP타워 330m·헤더윅 녹지)를 한 동선에서 대비. **도시 재생·수직 도시·공공 녹지**라는 메시지. 빌딩 사이로 도쿄타워를 프레이밍하는 한 컷이 이 대비의 상징.
+- **"배울것" — 공공이 무료로 공급하는 전망**: 저녁 [[tokyo-metropolitan-government-building|도청 45F 무료 전망대]] 야경. 유료 도쿄타워/스카이트리와 대비되는 "공공 무료 개방" 메시지. (낮 도쿄타워 + 밤 도청 = 유료/무료 전망 대비 컷)
+- **"아이의 후크"**: 캐릭터 IP(포켓몬) → ⛴ **배 그 자체** + 도쿄타워 **룩다운 윈도우**. teamLab Borderless는 이번 미방문(아자부다이는 광장만). 6/5 시부야 PARCO 6F(포켓몬·닌텐도·캡콤)에서 IP 후크 보완.
 
 촬영하면서 어색한 동선은 [[itinerary]]에 즉시 반영, 새 POI를 발견하면 `/ingest`로 위키 시드.

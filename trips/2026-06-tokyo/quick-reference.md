@@ -44,9 +44,10 @@ trip: 2026-06-tokyo
 ### 6/4 목 — 아사쿠사 → (수상버스) → 도쿄타워·아자부다이 → 신주쿠
 - 09:00 takkyubin 발송 → 09:30 [[senso-ji|센소지]] → 10:30 [[sumida-river|스미다강]]·아즈마바시 → 11:25 승강장
 - **11:40 ⛴ 수상버스 [[sumida-river|隅田川ライン]] → 12:20 히노데** → 셔틀/택시 → 12:40 점심(다이몬·하마마쓰초/풋타운)
-- 14:00 [[tokyo-tower|도쿄타워]] 메인데크(150m, 룩다운 윈도우) → 15:00 도보 → [[azabudai-hills|아자부다이 힐즈]] 광장·마켓 → 16:00 (선택·예약) [[teamlab-borderless-azabudai|teamLab Borderless]]
-- 17:45 택시 → [[hotel-groove-shinjuku|호텔 그루브 신주쿠]] (가부키쵸 타워 18F) → 19:00 저녁(타워 푸드홀 옵션) → 21:00 (선택) [[tokyu-kabukicho-tower|타워 39F]] Skydeck 야경
-- ⚠️ **수상버스 시간표·잔여석 / teamLab Borderless 당일 예약 슬롯 — 오늘 현장에서 즉시 확인**
+- 14:00 [[tokyo-tower|도쿄타워]] 메인데크(150m, 룩다운 윈도우) → 15:00 도보 → [[azabudai-hills|아자부다이 힐즈]] **광장·마켓 구경만**
+- 16:30 택시 → [[hotel-groove-shinjuku|호텔 그루브 신주쿠]] (가부키쵸 타워 18F) → 17:15 체크인·휴식 → 18:30 저녁(타워 푸드홀 옵션)
+- 20:00 택시 → **[[tokyo-metropolitan-government-building|도청 45F]] 무료 야경** → 21:00 호텔 → 21:30 (선택) [[tokyu-kabukicho-tower|타워 39F]] Skydeck
+- ⚠️ **수상버스 시간표·잔여석 — 오늘 현장에서 즉시 확인**
 
 ### 6/5 금 — 신주쿠 → 긴자
 - 09:00 takkyubin 발송 → 09:30 [[shinjuku-gyoen|신주쿠 교엔]] → 11:30 점심

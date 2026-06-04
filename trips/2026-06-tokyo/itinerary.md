@@ -54,14 +54,13 @@ content: "[[trips/2026-06-tokyo/content]]"
 | 12:40 | **점심** — 다이몬·하마마쓰초 또는 도쿄타워 풋타운 | 가족 친화·비흡연. [[food-options]] 6/4 섹션(우나기 [[food-options|노다이와 본점]]·소바·돈카츠·풋타운 카페) |
 | 14:00 | **[[tokyo-tower|도쿄타워]] 메인데크(150m)** | 도쿄만·레인보우브리지·신주쿠 조망. 바닥 유리 **룩다운 윈도우**(아이 후크). 요금 대인 1,500/6세 600엔. 트립데크(250m)는 선택 |
 | 15:00 | **도쿄타워 → [[azabudai-hills|아자부다이 힐즈]]** (도보 약 10~12분) | 빌딩 사이로 **도쿄타워 프레이밍 포토 스팟**. 임산부 거리 부담되면 택시 1메터 |
-| 15:20 | [[azabudai-hills]] 중앙광장 녹지 산책 + **마켓 카페 휴식** | 헤더윅 조경·모리 JP타워(330m 일본 최고층). "배울것"(수직 도시·도시 재생) 컷. 평지·벤치 |
-| 16:00 | (선택·예약) **[[teamlab-borderless-azabudai|teamLab Borderless]]** 1.5~2h | **아이 후크** + "배울것" 디지털아트. 어린이(4~12세) 1,500엔. ⚠️ **시간지정 예약 — 오늘(6/4) 당일 잔여 슬롯 즉시 확인. 매진이면 광장·마켓으로 가볍게 대체** |
-| 17:45 | **택시 → [[hotel-groove-shinjuku]] (가부키쵸 타워)** | 아자부다이(가미야초) → 신주쿠 약 25~30분, 4,000~6,000엔 |
-| 18:30 | [[hotel-groove-shinjuku]] 체크인 (18F 라운지), 캐리어 도착 확인 | takkyubin 미도착 시 컨시어지 보관 |
-| 19:00 | 객실 휴식 → 저녁 | A. [[tokyu-kabukicho-tower|타워 내 신주쿠 가부키쵸 푸드홀](1~5F) — 동선 0·가족 친화 / B. 외출 — 인근 비흡연 식당 ([[food-options]] 신주쿠) |
-| 21:00 | (선택) **[[tokyu-kabukicho-tower]] 39F 무료 Skydeck** | 호텔 같은 빌딩 — 신주쿠 야경. 컨디션 OK시 보너스 컷 |
-
-> 💡 도쿄타워 메인데크에서 이미 도심 야경/전망을 담으므로, 기존 [[tokyo-metropolitan-government-building|도청 무료 전망대]] 야간 슬롯은 6/4에서 제외(야경은 39F Skydeck로 충당). 도청 전망대를 꼭 원하면 6/5 신주쿠 일정에 끼울 수 있음.
+| 15:20 | [[azabudai-hills]] **중앙광장 녹지 산책만** + 마켓 카페 휴식 | 헤더윅 조경·모리 JP타워(330m 일본 최고층). "배울것"(수직 도시·도시 재생) 컷. 평지·벤치. **teamLab Borderless는 이번엔 생략(광장 구경만)** |
+| 16:30 | **택시 → [[hotel-groove-shinjuku]] (가부키쵸 타워)** | 아자부다이(가미야초) → 신주쿠 약 25~30분, 4,000~6,000엔 |
+| 17:15 | [[hotel-groove-shinjuku]] 체크인 (18F 라운지), 캐리어 도착 확인·객실 휴식 | takkyubin 미도착 시 컨시어지 보관. 임산부·아이 컨디션 회복 |
+| 18:30 | 저녁 | A. [[tokyu-kabukicho-tower|타워 내 신주쿠 가부키쵸 푸드홀](1~5F) — 동선 0·가족 친화 / B. 외출 — 인근 비흡연 식당 ([[food-options]] 신주쿠) |
+| 20:00 | **택시 → [[tokyo-metropolitan-government-building]] 45F 무료 전망대 야경** | 약 5~10분, 1,200~1,800엔. 야간 가부키쵸→도청 도보는 임산부에 부담이라 택시. 무료 야경 컷 + "공공이 무료로 공급하는 관광 자원" 메시지 |
+| 21:00 | **택시 → 호텔 복귀** | 약 5~10분 |
+| 21:30 | (선택) **[[tokyu-kabukicho-tower]] 39F 무료 Skydeck** | 호텔 같은 빌딩 — 신주쿠 야경 보너스. 컨디션 OK시 |
 
 ---
 
@@ -166,9 +165,9 @@ content: "[[trips/2026-06-tokyo/content]]"
 ## 6/4 아이 후크 변천 (메가도쿄 → Planets → 수상버스+Borderless)
 
 - [[pokemon-center-mega-tokyo|메가도쿄]] 영업 안 함(2026-06-02 확정) → 한때 [[teamlab-planets-tokyo|teamLab Planets(도요스)]]로 단일화.
-- **2026-06-04 동선 변경**: 도요스 Planets를 빼고 **수상버스(배 자체가 후크) + 아자부다이 [[teamlab-borderless-azabudai|teamLab Borderless]]** 로 대체.
-- 6세 아이의 후크 조합: 6/4 **수상버스 ⛴ + (선택)teamLab Borderless** + 6/5 오후 [[pokemon-center-shibuya|시부야 PARCO 6F 포켓몬·닌텐도·캡콤]].
-- ⚠️ teamLab Borderless는 시간지정 예약 — **오늘 당일 잔여 슬롯 확인**. 안 되면 수상버스+도쿄타워 룩다운+아자부다이 광장으로도 아이 후크 충분.
+- **2026-06-04 동선 변경**: 도요스 Planets를 빼고 **수상버스 + 도쿄타워 + 아자부다이 힐즈(광장 구경만)** 로 대체. teamLab Borderless는 이번 일정 **미방문**(아자부다이는 광장·마켓만).
+- 6세 아이의 후크 조합: 6/4 **수상버스 ⛴(배 자체) + 도쿄타워 룩다운 윈도우** + 6/5 오후 [[pokemon-center-shibuya|시부야 PARCO 6F 포켓몬·닌텐도·캡콤]].
+- 저녁 야경: **[[tokyo-metropolitan-government-building|도청 45F 무료 전망대]]** 복귀(사용자 6/4 야경 요청) + 호텔 39F Skydeck.
 
 ---
 
@@ -184,7 +183,8 @@ content: "[[trips/2026-06-tokyo/content]]"
 | 6/4 오전 [[senso-ji]] + [[sumida-river]] | 센소지 카미나리몬 한 컷만, 본당 짧게. **아사쿠사 문화관광센터 8F 무료 전망대**로 한 컷 대체 (실내) |
 | 6/4 ⛴ 수상버스 (아사쿠사→히노데) | 보트는 지붕 있어 비와도 OK — 그대로. 단 갑판 사진은 짧게. 풍랑·결항 시 [[sumida-river|히노데]]까지 도에이 아사쿠사선+전철 또는 택시로 대체 |
 | 6/4 [[tokyo-tower]] 메인데크 | 실내 전망이라 우천 영향 적음. 외관 라이트업 컷은 비로 약해질 수 있음 |
-| 6/4 [[teamlab-borderless-azabudai]] + [[azabudai-hills]] | teamLab Borderless·마켓은 실내라 우천 영향 ✗ — 그대로. 중앙광장 산책만 단축 |
+| 6/4 [[azabudai-hills]] 중앙광장 산책 | 광장은 야외라 우천 시 단축, 마켓·실내 카페로 대피. (teamLab Borderless는 이번 일정 미방문) |
+| 6/4 야경 [[tokyo-metropolitan-government-building]] 45F | 신주쿠역↔도청 **지하 터널** 또는 택시. 전망 약해도 실내 동선이라 진행 가능 |
 | 6/5 오전 [[shinjuku-gyoen]] | 신주쿠 NEWoMan·이세탄 백화점·도쿄도청 실내 전시 등 실내 |
 | 6/5 오후 [[shibuya-scramble]] + [[pokemon-center-shibuya]] | 시부야 스크램블 컷은 짧게. SHIBUYA SKY 옥상 우천 시 폐쇄 가능 — [[pokemon-center-shibuya|시부야 PARCO 6F]] 그대로 |
 | 6/6 오전 [[tsukiji-outer-market]] | 우산 쓰고 짧게, 또는 호텔 인근 카페로 대체 |
@@ -204,7 +204,7 @@ content: "[[trips/2026-06-tokyo/content]]"
 - ✅ 6/5 긴자 = **[[super-hotel-premier-ginza|Super Hotel Premier Ginza]]**
 - ✅ 6/3 입국 = 케이세이 본선 액세스 특급 직통
 - ✅ 6/6 출국 = 도에이 아사쿠사선 액세스 특급 직통
-- ✅ 6/4 오후 = **수상버스(아사쿠사→히노데) + [[tokyo-tower|도쿄타워]] + [[azabudai-hills|아자부다이 힐즈]]** (2026-06-04 변경, 도요스 Planets 대체). 아이 후크 [[teamlab-borderless-azabudai|teamLab Borderless]]는 당일 예약 확인
+- ✅ 6/4 오후 = **수상버스(아사쿠사→히노데) + [[tokyo-tower|도쿄타워]] + [[azabudai-hills|아자부다이 힐즈]](광장 구경만)** → 저녁 **[[tokyo-metropolitan-government-building|도청 45F 야경]]** (2026-06-04 변경, 도요스 Planets 대체). [[teamlab-borderless-azabudai|teamLab Borderless]]는 이번 미방문
 - ✅ 6/6 추가 슬롯 = 긴자 보행자 천국·쇼핑
 - ✅ **모든 식당 예약 안 함** — [[food-options]] 가족 친화 후보로 즉흥 방문
 
