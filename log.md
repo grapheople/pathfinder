@@ -451,3 +451,30 @@ trip index 산출물 섹션에 food-options 링크 추가.
 동선 매핑: 6/4 신주쿠 숙소([[hotel-groove-shinjuku]]) → BEAMS Japan / 6/5 긴자 숙소([[super-hotel-premier-ginza]]) → DSMG (6/6 오전 긴자 보행자 천국·쇼핑 슬롯에 합치면 동선 최적). 임산부·6세 동반 제약상 한 동네 한 매장 압축 권장.
 
 **schema-update 후보 (사용자 결정 대기)**: `poi.category`에 `shopping` 추가. 현재는 activity로 시드. 향후 쇼핑 POI 누적 시 district·stay처럼 정식 등록 제안.
+
+## [2026-06-04] plan-update + ingest | 6/4 오후 동선 전면 교체 (도요스 Planets → 수상버스·도쿄타워·아자부다이)
+
+여행 둘째날(6/4) 실시간 변경. 사용자 동선: **11:40 아사쿠사 부두 출발 → 수상버스 → 히노데 → 다이몬·도쿄타워 → 아자부다이 힐즈 → 신주쿠**.
+
+소스:
+- `sources/2026-06-04-tokyo-asakusa-cruise-tower-azabudai.md` — 수상버스(TOKYO CRUISE)·도쿄타워·아자부다이 힐즈·teamLab Borderless. 공식 + NAVITIME + 가이드 웹검색 교차확인. 시간표·예약 슬롯 당일 재확인 표지.
+
+신규 위키 페이지(3):
+- `wiki/pois/tokyo-tower.md` (sight, 메인데크 09:00-23:00·4세+ 600엔)
+- `wiki/pois/azabudai-hills.md` (sight, 2023 복합·모리 JP타워 330m·헤더윅 녹지·마켓)
+- `wiki/pois/teamlab-borderless-azabudai.md` (activity, 10:00-21:00·시간지정 예약·Planets와 별개)
+
+기존 페이지 갱신:
+- `wiki/pois/sumida-river.md` — 실용정보에 수상버스(隅田川ライン·히미코·호타루나) 추가, 출처 인용
+- `wiki/cities/tokyo.md`·루트 `index.md` — POI 목록에 3개 추가, Sources 6차
+
+trip 산출물 전면 갱신(6/4):
+- `itinerary.md` — 6/4 표 전면 교체(수상버스 11:40·도쿄타워·아자부다이·teamLab Borderless), 도보거리 표(~3km 한계 근접), 우천 Plan B 6/4 행, 아이 후크 변천 섹션, 확정 사항. 도청 야경 슬롯 6/4에서 제외(도쿄타워+39F Skydeck로 충당)
+- `quick-reference.md` — 6/4 한 눈에 동선 교체 + 당일 예약 확인 경고
+- `content.md` — 6/4 콘텐츠 무게중심: "옛 도쿄타워 vs 신축 아자부다이(수직 도시)" 대비 + 수상버스
+- `shot-list.md` — 6/4 컷 교체(수상버스 갑판·도쿄타워 룩다운·도쿄타워 프레이밍·아자부다이 광장·teamLab Borderless), 6관점 충당표
+- `food-options.md` — 6/4 점심을 다이몬·도쿄타워·아자부다이 권역으로 교체(아자부다이 힐즈 마켓·Balcony by 6th·노다이와 본점·풋타운), 도요스 섹션 "제외(참고 보관)" 표기
+
+아이 후크 변천: 메가도쿄(휴업) → teamLab Planets(도요스) → **수상버스 ⛴ + (선택)teamLab Borderless(아자부다이)**. ⚠️ Borderless·우주선 보트는 **당일 예약/잔여석 현장 확인** 필요.
+
+미해결: teamLab Borderless 당일 예약 여부는 사용자 현장 확인 사항. 안 되면 도쿄타워+아자부다이 광장으로 가볍게.
