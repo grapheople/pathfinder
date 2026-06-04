@@ -27,11 +27,14 @@ _Last linted: 2026-05-27 (`/lint` 3차 — 고아 0, 깨진 링크 0 실유효 /
 - [[shinjuku-gyoen]] · sight · 1-2h — 도심 58만㎡ 대공원
 - [[shibuya-scramble]] · sight · 15-30min — 사선 보행 교차로
 - [[tokyu-kabukicho-tower]] · sight · 1-2h — 가부키쵸 신축 48층, 쿠마 켄고, 39F 무료 Skydeck
+- [[tokyo-tower]] · sight · 1-2h — 미나토, 333m 적백 송신탑·메인데크 전망
+- [[azabudai-hills]] · sight · 1.5-2.5h — 미나토, 2023 복합·모리 JP타워 330m·헤더윅 녹지
 
 #### 액티비티 (activity)
 - [[pokemon-center-mega-tokyo]] · activity · 1-1.5h — 이케부쿠로, ⚠️ 영업 안 함 (2026-06 trip 미사용)
 - [[pokemon-center-shibuya]] · activity · 30-60min — 시부야 PARCO 6F
 - [[teamlab-planets-tokyo]] · activity · 1.5-2h — 도요스, 몰입형 디지털 아트
+- [[teamlab-borderless-azabudai]] · activity · 1.5-2h — 아자부다이 힐즈, 몰입형 디지털 아트 (Planets와 별개)
 
 #### 쇼핑·스트릿패션 (activity)
 - [[beams-japan-shinjuku]] · activity · 1-1.5h — 신주쿠 3초메, "Made in Japan" 멀티플로어 플래그십
@@ -85,6 +88,9 @@ _Last linted: 2026-05-27 (`/lint` 3차 — 고아 0, 깨진 링크 0 실유효 /
 
 ### 5차 (스트릿패션 쇼핑, 2026-06-02)
 - [[sources/2026-06-02-tokyo-street-fashion-shops]] — BEAMS Japan 신주쿠 · Dover Street Market Ginza (공식 403, 웹검색 교차확인 + 출발 전 확인)
+
+### 6차 (6/4 동선 변경 — 수상버스·도쿄타워·아자부다이, 2026-06-04)
+- [[sources/2026-06-04-tokyo-asakusa-cruise-tower-azabudai]] — 수상버스(아사쿠사→히노데)·도쿄타워·아자부다이 힐즈·teamLab Borderless (웹검색 교차확인, 당일 시간표·예약 재확인)
 
 ---
 

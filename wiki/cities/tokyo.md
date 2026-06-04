@@ -4,7 +4,7 @@ title: 도쿄
 aliases: [Tokyo, 東京, とうきょう]
 tags: [japan, tokyo, kanto, megacity]
 created: 2026-05-27
-updated: 2026-06-02
+updated: 2026-06-04
 country: japan
 region: 간토
 best_seasons: [spring, autumn]
@@ -66,6 +66,9 @@ duration_hint: 3-7일
 - [[pokemon-center-mega-tokyo]] (이케부쿠로 선샤인시티, ⚠️ 영업 안 함 — 2026-06 trip 미사용)
 - [[pokemon-center-shibuya]] (시부야 PARCO 6F)
 - [[teamlab-planets-tokyo]] (도요스, 몰입형 디지털 아트)
+- [[teamlab-borderless-azabudai]] (아자부다이 힐즈, 몰입형 디지털 아트 — Planets와 별개)
+- [[tokyo-tower]] (미나토, 333m 적백 송신탑·메인데크 전망)
+- [[azabudai-hills]] (미나토, 2023 복합·모리 JP타워 330m·헤더윅 녹지)
 - [[tsukiji-outer-market]] (장외시장, 긴자 인접)
 
 #### 쇼핑·스트릿패션 (activity)

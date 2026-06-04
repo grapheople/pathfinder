@@ -4,7 +4,7 @@ title: 2026-06 도쿄 content
 aliases: []
 tags: [japan, tokyo, content, family]
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-06-04
 trip: 2026-06-tokyo
 status: planning
 video_url:
@@ -78,12 +78,13 @@ video_url:
 
 **시간 단위 촬영 컷 리스트**는 [[trips/2026-06-tokyo/shot-list|shot-list.md]]에 분리. itinerary 슬롯과 1:1 매칭, 필수·선택·우천 대체 표기 포함.
 
-## 6/4 오후 = teamLab Planets (메가도쿄 휴업 확정)
+## 6/4 오후 = 수상버스 + 도쿄타워 + 아자부다이(광장) + 도청 야경 (2026-06-04 동선 변경)
 
-[[pokemon-center-mega-tokyo|메가도쿄]] 영업 안 함이 확정되어 6/4 오후가 **[[teamlab-planets-tokyo|teamLab Planets]]** 단일 일정으로 정착. 콘텐츠 무게중심이 다음과 같이 이동:
+도요스 [[teamlab-planets-tokyo|teamLab Planets]]를 빼고 **아사쿠사 수상버스 → [[tokyo-tower|도쿄타워]] → [[azabudai-hills|아자부다이 힐즈]](광장 구경만) → 저녁 [[tokyo-metropolitan-government-building|도청 45F 야경]]** 로 교체. 콘텐츠 무게중심:
 
-- **"배울것" 축이 한층 강화** — teamLab = "디지털 아트 컬렉티브가 도시를 재정의"하는 메시지. 일본 디자인·도시·산업의 결합이 가장 또렷한 컷.
-- "봐야할것"에서 포켓몬 컷이 빠지는 대신 **TeamLab의 강한 시각 임팩트**.
-- "아이의 후크"가 캐릭터 IP(포켓몬)에서 **인터랙티브 디지털 아트**로 전환. 6/5 시부야 PARCO 6F(포켓몬·닌텐도·캡콤)에서 IP 후크는 보완됨.
+- **"봐야할것" — 강(수상버스)에서 본 도쿄의 시간 레이어**: [[sumida-river|스미다강]]에서 다리·하마리큐를 지나 도쿄만으로. 앉아서 흐르는 도시를 담는 무빙 컷.
+- **"배울것" — 옛 타워 vs 신축 수직 도시**: [[tokyo-tower|도쿄타워]](1958, 전후 부흥)와 [[azabudai-hills|아자부다이 힐즈]](2023, 모리 JP타워 330m·헤더윅 녹지)를 한 동선에서 대비. **도시 재생·수직 도시·공공 녹지**라는 메시지. 빌딩 사이로 도쿄타워를 프레이밍하는 한 컷이 이 대비의 상징.
+- **"배울것" — 공공이 무료로 공급하는 전망**: 저녁 [[tokyo-metropolitan-government-building|도청 45F 무료 전망대]] 야경. 유료 도쿄타워/스카이트리와 대비되는 "공공 무료 개방" 메시지. (낮 도쿄타워 + 밤 도청 = 유료/무료 전망 대비 컷)
+- **"아이의 후크"**: 캐릭터 IP(포켓몬) → ⛴ **배 그 자체** + 도쿄타워 **룩다운 윈도우**. teamLab Borderless는 이번 미방문(아자부다이는 광장만). 6/5 시부야 PARCO 6F(포켓몬·닌텐도·캡콤)에서 IP 후크 보완.
 
 촬영하면서 어색한 동선은 [[itinerary]]에 즉시 반영, 새 POI를 발견하면 `/ingest`로 위키 시드.

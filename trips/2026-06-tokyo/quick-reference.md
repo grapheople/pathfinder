@@ -4,7 +4,7 @@ title: 2026-06 도쿄 quick-reference
 aliases: [현지 휴대용]
 tags: [japan, tokyo, mobile, family]
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-06-04
 trip: 2026-06-tokyo
 ---
 
@@ -41,10 +41,13 @@ trip: 2026-06-tokyo
 ### 6/3 수 — 도착·아사쿠사 야간
 - 14:10 ICN 탑승 → 17:00 NRT 도착 → 18:00 케이세이 본선 액세스 특급 → 19:15 아사쿠사역 → 도보 [[onyado-nono-asakusa|온야도 노노]] → 가벼운 저녁 → 21:30 무료 야식 라멘 (선택)
 
-### 6/4 목 — 아사쿠사 → 신주쿠 (가부키쵸)
-- 09:00 takkyubin 발송 → 09:30 [[senso-ji|센소지]] → 10:30 [[sumida-river|스미다강]] → 11:30 텐동 점심
-- 14:00~16:00 [[teamlab-planets-tokyo|teamLab Planets 도요스]] (메가도쿄 휴업으로 단일화)
-- 17:30 [[hotel-groove-shinjuku|호텔 그루브 신주쿠]] (가부키쵸 타워 18F) → 19:00 저녁 (타워 내 푸드홀 옵션) → 20:30 택시 → [[tokyo-metropolitan-government-building|도청 45F]] 야경 → 21:30 호텔 → 22:00 (선택) [[tokyu-kabukicho-tower|타워 39F]] Skydeck
+### 6/4 목 — 아사쿠사 → (수상버스) → 도쿄타워·아자부다이 → 신주쿠
+- 09:00 takkyubin 발송 → 09:30 [[senso-ji|센소지]] → 10:30 [[sumida-river|스미다강]]·아즈마바시 → 11:25 승강장
+- **11:40 ⛴ 수상버스 [[sumida-river|隅田川ライン]] → 12:20 히노데** → 셔틀/택시 → 12:40 점심(다이몬·하마마쓰초/풋타운)
+- 14:00 [[tokyo-tower|도쿄타워]] 메인데크(150m, 룩다운 윈도우) → 15:00 도보 → [[azabudai-hills|아자부다이 힐즈]] **광장·마켓 구경만**
+- 16:30 택시 → [[hotel-groove-shinjuku|호텔 그루브 신주쿠]] (가부키쵸 타워 18F) → 17:15 체크인·휴식 → 18:30 저녁(타워 푸드홀 옵션)
+- 20:00 택시 → **[[tokyo-metropolitan-government-building|도청 45F]] 무료 야경** → 21:00 호텔 → 21:30 (선택) [[tokyu-kabukicho-tower|타워 39F]] Skydeck
+- ⚠️ **수상버스 시간표·잔여석 — 오늘 현장에서 즉시 확인**
 
 ### 6/5 금 — 신주쿠 → 긴자
 - 09:00 takkyubin 발송 → 09:30 [[shinjuku-gyoen|신주쿠 교엔]] → 11:30 점심
