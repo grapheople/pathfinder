@@ -298,8 +298,12 @@ _Last linted: 2026-05-27_
 - [[trips/2025-11-hanoi/index]] · done · 2025-11-03 ~ 2025-11-09
 
 ## Sources
-최근 10개만 표시 (전체는 `sources/` 직접 참조)
+### japan · tokyo
+- [[sources/2026-05-27-dcinside-tokyo-weather]] — 월별 기후, 6월 장마
+### korea · jecheon
+- [[sources/2026-06-12-foret-resom-jecheon]] — 해브나인 스파·임산부 제한
 ```
+**Sources 정렬 규칙**: `### <country> · <city>` 헤더로 묶고, 각 그룹 안은 날짜 오름차순. city가 불분명한 소스(국가 일반·다도시)는 `### <country> · 공통`에 둔다. 도시 없는 국가 일반은 `### <country>`. (차수·수집 회차로 묶지 않는다.)
 
 ### `log.md` (append-only, 시간순)
 첫 줄은 고정 포맷: `## [YYYY-MM-DD] action | 제목` — Unix 도구로 grep·필터 가능.

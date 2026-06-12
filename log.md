@@ -5,6 +5,27 @@
 
 ---
 
+## [2026-06-12] schema-update | index.md Sources를 국가·도시별 그룹으로
+
+CLAUDE.md 9절 index.md 템플릿의 Sources 정렬 규칙 변경.
+
+- 변경: `최근 10개만 표시` → `### <country> · <city>` 그룹, 그룹 내 날짜 오름차순. (차수·수집 회차로 묶지 않음)
+- 도시 불분명 소스는 `### <country> · 공통`, 국가 일반은 `### <country>`.
+- 반영: `CLAUDE.md`(9절 템플릿+규칙), `index.md`(Sources 섹션 japan·tokyo / korea·jecheon로 재구성)
+- 영향: 앞으로 `/lint`의 index 재생성도 이 규칙을 따라야 함.
+
+## [2026-06-12] plan | 2026-06-jecheon (제천 포레스트 리솜 1박 2일)
+
+휴양형 리조트 plan. 6/16(화) 13:00 자가용 출발, 1박 2일, 모든 식사 리조트 내. 동행: 아내(임신 22주, 컨디션 양호) + 아들 6세.
+
+- 생성(trip): `trips/2026-06-jecheon/{index,itinerary,content,packing-list,budget}.md`
+- 생성(wiki): `wiki/countries/korea.md`, `wiki/cities/jecheon.md`, `wiki/pois/foret-resom-jecheon.md`, `wiki/pois/haevnine-wellness-spa.md`
+- 생성(source): `sources/2026-06-12-foret-resom-jecheon.md` (공식+웹검색 교차확인)
+- content.md 사전준비 3섹션: 채움 (봐야할것/먹어야할것/배울것 — "자연 위의 휴양 설계"가 척추)
+- overrides: pace=relaxed, daily_walk_km_max=3, themes=[spa-wellness, forest-nature, kid-water-play], transport=self-drive
+- ⚠️ 핵심 리스크: **임산부 스파풀 이용 제한**(공식 안내) → index에 D-Day 전화 확인 액션. 운영시간 출처 충돌도 확인 대상.
+- 영향: 루트 `index.md`(Countries/Cities/POIs/Trips/Sources에 korea·jecheon·제천 trip 추가)
+
 ## [2026-05-27] profile-update | profile.md 초기 작성
 
 부트스트랩 인터뷰로 글로벌 기준선 작성.
